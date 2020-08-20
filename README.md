@@ -1,10 +1,10 @@
 # Hey, I'm Caio 👋
 :brazil: I'm from Brazil.
-&nbsp;
 👨‍💻 Information Systems student at USP
-&nbsp;
 ✅ I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
 
 Reach me out 👇
 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/caio-nakazawa-476b94169" />
+<a href="//www.linkedin.com/in/caio-nakazawa-476b94169">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white />
+</a>
