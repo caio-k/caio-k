@@ -2,7 +2,7 @@
 
 :brazil: I'm from Brazil
 
-👨‍💻 Information Systems student at USP
+👨‍💻 Student of Information Systems at USP
 
 💡 I'm passionate about solving problems and learning, always open to new challenges and ready to face changes
 
