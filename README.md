@@ -1,6 +1,8 @@
 # Hey, I'm Caio 👋
 :brazil: I'm from Brazil.
+&nbsp;
 👨‍💻 Information Systems student at USP
+&nbsp;
 ✅ I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
 
 Reach me out 👇
