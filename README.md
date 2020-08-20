@@ -1,5 +1,6 @@
 # Hey, I'm Caio 👋
-:brazil: I'm from Brazil.
+
+:brazil: I'm from Brazil
 
 👨‍💻 Information Systems student at USP
 
