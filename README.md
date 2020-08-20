@@ -4,7 +4,7 @@
 
 👨‍💻 Information Systems student at USP
 
-💡 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
+💡 I'm passionate about solving problems and learning, always open to new challenges and ready to face changes
 
 Reach me out 👇
 
